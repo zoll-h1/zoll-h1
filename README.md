@@ -3,7 +3,7 @@
   <img width="100%" src="samurai-banner.png" alt="samurai banner" />
 </p>
 
-<h1 align="center">zoll-h1</h1>
+<h1 align="center"><b>zoll-h1</b></h1>
 <p align="center">
   CS Student • Backend & Systems • Fedora + Hyprland
 </p>
