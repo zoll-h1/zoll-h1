@@ -1,6 +1,6 @@
 <!-- SAMURAI HERO BANNER -->
 <p align="center">
-  <img width="100%" src="assets/samurai-banner.png" alt="samurai banner" />
+  <img width="100%" src="samurai-banner.png" alt="samurai banner" />
 </p>
 
 <h1 align="center">zoll-h1</h1>
