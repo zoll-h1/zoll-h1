@@ -56,7 +56,7 @@
 - Web Dev soon: HTML/CSS → JS
 - Fedora + Hyprland workflow upgrades
 
-## 🧠 Workflow
+- ## 🧠 Workflow
 - Cursor for coding
 - Obsidian for notes / second brain
 - Terminal-first mindset
