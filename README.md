@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🛸 Hello World! I'm a CS Student & Linux Enthusiast<br><br>I don't just write code; I build systems. Currently transitioning to **Fedora Hyprland** and optimizing my workflow with **Cursor** & **Obsidian**.<br><br>- ⚙️ **The Stack:** Learning **Java** core & building **Python** backends (APIs, Telegram Bots).<br>- 🏗️ **The Goal:** Evolving from a coder to a **Software Engineer**. Next stop: Web Development.<br>- 🐧 **The Environment:** I live in the terminal.<br>- 💪 **Offline Mode:** Calisthenics athlete. Discipline in code, discipline in body.
+### 🛸 Hello World! I'm a CS Student & Linux Enthusiast<br><br>I don't just write code; I build systems. Currently transitioning to **Fedora Hyprland** and optimizing my workflow with **Cursor** & **Obsidian**.<br><br>- ⚙️ **The Stack:** Learning **Java** core & building **Python** backends (APIs, Telegram Bots).<br>- 🏗️ **The Goal:** Evolving from a coder to a **Software Engineer**. Next stop: Web Development.<br>- 🐧 **The Environment:** I live in the terminal.<br>- 💪 **Sports :** Calisthenics athlete. Discipline in code, discipline in body.
 
 
 ## 🌐 Socials:
