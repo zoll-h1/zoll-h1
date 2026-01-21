@@ -50,16 +50,11 @@
 - 🧠 Workflow: **Cursor** for coding, **Obsidian** for thinking
 - 💪 **Calisthenics** — discipline in body, discipline in code
 
-- ## ⚡ Focus Now
+- ## ⚡ Current Focus
 - Java core (OOP → Collections → IO)
 - Python: Telegram bots + small APIs
 - Web Dev soon: HTML/CSS → JS
 - Fedora + Hyprland workflow upgrades
-
-- ## 🧠 Workflow
-- Cursor for coding
-- Obsidian for notes / second brain
-- Terminal-first mindset
 
 
 > _“Discipline in training creates discipline in systems.”_
