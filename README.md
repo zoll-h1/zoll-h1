@@ -1,7 +1,28 @@
-<!-- HERO / BANNER -->
+<!-- SAMURAI HERO BANNER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=zoll-h1&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="assets/samurai-banner.png" alt="samurai banner" />
 </p>
+
+<h1 align="center">zoll-h1</h1>
+<p align="center">
+  CS Student • Backend & Systems • Fedora + Hyprland
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/765557906140692550">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:nurbekerkibaev9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,bash,git,linux,html,css,sqlite&perline=8" />
+</p>
+
+---
+
 
 <h1 align="center">🛸 CS Student & Linux Enthusiast</h1>
 
@@ -28,6 +49,18 @@
 - 🐧 Switching to **Fedora + Hyprland**
 - 🧠 Workflow: **Cursor** for coding, **Obsidian** for thinking
 - 💪 **Calisthenics** — discipline in body, discipline in code
+
+- ## ⚡ Focus Now
+- Java core (OOP → Collections → IO)
+- Python: Telegram bots + small APIs
+- Web Dev soon: HTML/CSS → JS
+- Fedora + Hyprland workflow upgrades
+
+## 🧠 Workflow
+- Cursor for coding
+- Obsidian for notes / second brain
+- Terminal-first mindset
+
 
 > _“Discipline in training creates discipline in systems.”_
 
