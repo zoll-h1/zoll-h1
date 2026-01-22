@@ -3,7 +3,7 @@
 <tr>
 <td width="65%" valign="top">
 
-<h1>Nurbek</h1>
+<h1 style="margin-bottom:8px;">Nurbek</h1>
 
 <p>
 CS Student • Backend & Systems • Fedora + Hyprland
@@ -12,7 +12,7 @@ CS Student • Backend & Systems • Fedora + Hyprland
 </td>
 <td width="35%" align="right">
 
-<img src="banner.png" width="100%" alt="moon banner" />
+<img src="Natori.png" width="100%" alt="moon banner" />
 
 </td>
 </tr>
