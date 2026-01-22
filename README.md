@@ -1,16 +1,27 @@
 <!-- SAMURAI HERO BANNER -->
-<p align="center">
-  <img width="100%" src="banner.png" alt="moon banner" />
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+<h1>Nurbek</h1>
+
+<p>
+CS Student • Backend & Systems • Fedora + Hyprland
 </p>
 
-<h1 align="center"><b>Nurbek</b></b></h1>
-<p align="center">
-  CS Student • Backend & Systems • Fedora + Hyprland
-</p>
+</td>
+<td width="35%" align="right">
+
+<img src="banner.png" width="100%" alt="moon banner" />
+
+</td>
+</tr>
+</table>
 
 ---
+
 # 💫 About Me:
-👤 About Me<br><br>- 💻 Computer Science student, focused on **backend & systems**<br>- ⚙️ Learning **Java core**, building **Python backends & Telegram bots**<br>- 🐧 Switching to **Fedora + Hyprland**<br>- 🧠 Workflow: **Cursor** for coding, **Obsidian** for thinking<br>- 💪 **Calisthenics** — discipline in body, discipline in code<br><br>> _“Discipline in training creates discipline in systems.”_
+## 👤 About Me<br><br>- 💻 Computer Science student, focused on **backend & systems**<br>- ⚙️ Learning **Java core**, building **Python backends & Telegram bots**<br>- 🐧 Switching to **Fedora + Hyprland**<br>- 🧠 Workflow: **Cursor** for coding, **Obsidian** for thinking<br>- 💪 **Calisthenics** — discipline in body, discipline in code<br><br>> _“Discipline in training creates discipline in systems.”_
 
 
 ## 🌐 Socials:
