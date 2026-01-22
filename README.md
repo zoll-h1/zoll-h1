@@ -1,98 +1,32 @@
 <!-- SAMURAI HERO BANNER -->
 <p align="center">
-  <img width="100%" src="samurai-banner.png" alt="samurai banner" />
+  <img width="100%" src="banner.png" alt="moon banner" />
 </p>
 
-<h1 align="center"><b>zoll-h1</b></h1>
+<h1 align="center"><b>Nurbek</b></b></h1>
 <p align="center">
   CS Student • Backend & Systems • Fedora + Hyprland
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/765557906140692550">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:nurbekerkibaev9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
-</p>
+---
+# 💫 About Me:
+👤 About Me<br><br>- 💻 Computer Science student, focused on **backend & systems**<br>- ⚙️ Learning **Java core**, building **Python backends & Telegram bots**<br>- 🐧 Switching to **Fedora + Hyprland**<br>- 🧠 Workflow: **Cursor** for coding, **Obsidian** for thinking<br>- 💪 **Calisthenics** — discipline in body, discipline in code<br><br>> _“Discipline in training creates discipline in systems.”_
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,bash,git,linux,html,css,sqlite&perline=8" />
-</p>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/765557906140692550) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurbekerkibaev9@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zoll-h1&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zoll-h1&theme=great-gatsby&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoll-h1&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zoll-h1&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-
-
-<h1 align="center">🛸 CS Student & Linux Enthusiast</h1>
-
-<p align="center">
-  I don’t just write code — I build systems.<br>
-  Backend • Java learner • Fedora + Hyprland
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/765557906140692550">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:nurbekerkibaev9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
-## 👤 About Me
-
-- 💻 Computer Science student, focused on **backend & systems**
-- ⚙️ Learning **Java core**, building **Python backends & Telegram bots**
-- 🐧 Switching to **Fedora + Hyprland**
-- 🧠 Workflow: **Cursor** for coding, **Obsidian** for thinking
-- 💪 **Calisthenics** — discipline in body, discipline in code
-
-- ## ⚡ Current Focus
-- Java core (OOP → Collections → IO)
-- Python: Telegram bots + small APIs
-- Web Dev soon: HTML/CSS → JS
-- Fedora + Hyprland workflow upgrades
-
-
-> _“Discipline in training creates discipline in systems.”_
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,bash,html,css,git,linux,sqlite&perline=8" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zoll-h1&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoll-h1&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=zoll-h1&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zoll-h1&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
-<!-- footer wave -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer" />
-</p>
-
+[![](https://visitcount.itsvg.in/api?id=zoll-h1&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
