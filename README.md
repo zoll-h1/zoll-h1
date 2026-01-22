@@ -6,9 +6,10 @@
 <h1 style="margin-bottom:8px;">Nurbek</h1>
 
 <p>
-CS Student • Backend & Systems • Fedora + Hyprland
+> CS Student • Backend & Systems • Fedora + Hyprland 
+> I believe I can flyy
+> I believe I can touch the skyyy
 </p>
-
 </td>
 <td width="35%" align="right">
 
