@@ -26,7 +26,7 @@ I believe I can touch the skyyy
 ---
 
 # 💫 About Me:
-## 👤 About Me<br><br>- 💻 Computer Science student, focused on **backend & systems**<br>- ⚙️ Learning **Java core**, building **Python backends & Telegram bots**<br>- 🐧 Switching to **Fedora + Hyprland**<br>- 🧠 Workflow: **Cursor** for coding, **Obsidian** for thinking<br>- 💪 **Calisthenics** — discipline in body, discipline in code<br><br>> _“Discipline in training creates discipline in systems.”_
+## 👤 About Me<br><br>- 💻 Computer Science student, focused on **backend & systems**<br>- ⚙️ Learning **Java core**, building **Python backends & Telegram bots**<br>- 🐧 Chilling in **Arch + Hyprland**<br>- 🧠 Workflow: **Cursor** for coding, **Obsidian** for thinking<br>- 💪 **Calisthenics** — discipline in body, discipline in code<br><br>> _“Discipline in training creates discipline in systems.”_
 
 
 ## 🌐 Socials:
